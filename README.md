@@ -2,4 +2,4 @@
 LAB 6(Google card board &amp; Smart Watch App)
 ###Lab Assignment 6 : [LAB Assignment-6(wiki)](https://github.com/ROHITHKUMARN/ASE-Lab-Assignments/wiki/Lab-Assignment-6(Smart-Watch-App&-Google-Card-Board))
 LAB 7(IONIC APP: TEXT TO SPEECH CONVERTER)
-###Lab Assignment 6 : [LAB Assignment-7(wiki)](https://github.com/ROHITHKUMARN/ASE_Assignments--Part2/wiki/Lab-Assignment-7(IONIC-APPLICATION_TEXT-TO-SPEECH-CONVERTER)))
+### Lab Assignment7---[LAB Assignment-7(wiki)](https://github.com/ROHITHKUMARN/ASE_Assignments--Part2/wiki/Lab-Assignment-7(IONIC-APPLICATION_TEXT-TO-SPEECH-CONVERTER))
